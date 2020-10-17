@@ -89,7 +89,7 @@ registry, and UCP controllers](https://success.docker.com/article/networking/)
 - Describe the difference between "host" and "ingress" port publishing mode ([Host](https://docs.docker.com/engine/swarm/services/#publish-a-services-ports-directly-on-the-swarm-node), [Ingress](https://docs.docker.com/engine/swarm/ingress/))
 
 ### Domain 5: Security (15% of exam)
-- [Describe security administration and tasks (new)]
+- [Describe security administration and tasks (new)] (https://docs.docker.com/engine/security/)
 - [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content)
 - [Demonstrate that an image passes a security scan](https://docs.docker.com/datacenter/dtr/2.5/guides/admin/configure/set-up-vulnerability-scans/)
 - [Demonstrate that an image passes a security scan 2](https://resources.whitesourcesoftware.com/blog-whitesource/docker-image-security-scanning)
